@@ -1,4 +1,4 @@
-This is a lab for NO SQL course at DAIICT.
+This is a lab 01 for NO SQL course at DAIICT.
 There are four questions :
 
 1 : Input file contains weather data and Map Reduce program returns yearly the Maximum Temperature recorded.
