@@ -1,5 +1,6 @@
 This is a lab for NO SQL course at DAIICT.
 There are four questions :
+
 1 : Input file contains weather data and Map Reduce program returns yearly the Maximum Temperature recorded.
 
 2 : Input is a file web access log file (“web_access_log”) produced by a web server , Map Reduce program returns the numbers of times client accessed GIF,JPG and other image file.
